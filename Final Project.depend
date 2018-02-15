@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1516721452 source:c:\users\douellette449\documents\c++\c++\chapter 11\final project\main.cpp
+	<iostream>
+	<iomanip>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<cstdlib>
+	<cmath>
+	<dos.h>
+	<conio.h>
+	<windows.h>
+	<string>
+
